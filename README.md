@@ -1,1 +1,3 @@
-# Personal-Website
+Hello, I'm Meghna Rajbhandari, a dedicated and hardworking graduate student majoring in Computer Science at Drexel University. My academic journey has been fueled by my passion for coding and the endless possibilities it presents. I've always been fascinated by the intricate problems that can be solved through programming, and this enthusiasm has driven me to delve deeper into the field.
+
+My interests lie in the intersection of Artificial Intelligence (AI) and Machine Learning (ML) with environmental sustainability. I believe that technology has the potential to make significant contributions to preserving our environment, and I'm committed to exploring how AI and ML can be leveraged for this purpose. As I continue my academic and professional journey, I look forward to using my skills and knowledge to make a positive impact on our world.
